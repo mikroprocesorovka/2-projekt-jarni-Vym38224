@@ -1,0 +1,10 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "binaryPath": "/usr/bin/make",
+            "binaryArgs": [
+                "flash"
+            ]
+        }
+    ]
+}
